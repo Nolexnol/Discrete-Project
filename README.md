@@ -1,2 +1,2 @@
 # Discrete-Project
-#This is a discrete Structures course project for fall 2024
+This is a discrete Structures course project for Fall 2024
